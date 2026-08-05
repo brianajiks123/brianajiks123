@@ -30,7 +30,7 @@
 
 ## 📈 Activity Graph
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brianajiks123&theme=tokyo-night&hide_border=true&area=true)](https://github.com/brianajiks123)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brianajiks123&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area_color=70a5fd&area=true&hide_border=true&custom_title=Brian%20Aji%20Pamungkas%20Activity%20Graph)](https://github.com/brianajiks123)
 
 ## 🐍 Contribution Snake
 
