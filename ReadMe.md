@@ -1,22 +1,40 @@
-# 🌟 About Me
-- 💼 Currently IT Staff with expertise as Web Developer with modern frameworks and cloud technologies.
-- 🎓 Learning and experimenting with AI/ML and DevOps tools to stay ahead in the tech world.
-- 🌍 Based in Semarang | Open to remote opportunities.
-- 🎮 In my free time, I enjoy gaming and exploring new tech trends.
+# Hi, I'm Brian Aji Pamungkas
 
-# 🔗 Connect With Me
-<div align="left">
-  <a href="https://linkedin.com/in/in/brian-aji-pamungkas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25" alt="linkedin logo" /></a>
-  <a href="mailto:brianajiks123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="25" alt="email logo" /></a>
-</div>
+[![Followers](https://img.shields.io/github/followers/brianajiks123?label=Followers&style=for-the-badge&color=6BA6FF&labelColor=1a1b27)](https://github.com/brianajiks123?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=brianajiks123&label=Profile%20views&color=6BA6FF&style=for-the-badge&labelColor=1a1b27)
+[![Stars](https://img.shields.io/github/stars/brianajiks123?label=Stars&style=for-the-badge&color=6BA6FF&labelColor=1a1b27)](https://github.com/brianajiks123?tab=repositories)
 
-# 📊 GitHub Stats
-<div align="center">
+---
 
-![Your GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=brianajiks123&theme=tokyonight&show_icons=true&rank_icon=default&hide_rank=false)
+## About Me
 
-![Your GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=brianajiks123&theme=tokyonight)
+- Currently **IT Staff** and **Web Developer** — building with modern frameworks and cloud tech.
+- Learning **AI/ML** and **DevOps** to stay ahead in the tech world.
+- Based in **Semarang, Indonesia** — open to remote opportunities.
+- Off-hours: gaming and exploring new tech trends.
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=brianajiks123&theme=tokyonight&layout=compact&langs_count=10)
+## Connect With Me
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/brian-aji-pamungkas)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:brianajiks123@gmail.com)
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=brianajiks123&theme=tokyonight&show_icons=true&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true)
+![Top langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=brianajiks123&theme=tokyonight&layout=compact&langs_count=10&hide_border=true)
+
+![GitHub streak](https://github-readme-stats-fast.vercel.app/api/streak?username=brianajiks123&theme=tokyonight&hide_border=true)
+
+## Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=brianajiks123&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Activity Graph
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brianajiks123&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Contribution Snake
+
+![GitHub snake](https://raw.githubusercontent.com/brianajiks123/brianajiks123/output/github-snake.svg)
+
+---
