@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/brianajiks123?tab=followers"><img src="https://img.shields.io/github/followers/brianajiks123?label=Followers&style=for-the-badge&color=6BA6FF&labelColor=1a1b27" alt="Followers"/></a>
-  <a href="https://github.com/brianajiks123?tab=repositories"><img src="https://img.shields.io/github/stars/brianajiks123?label=Stars&style=for-the-badge&color=6BA6FF&labelColor=1a1b27" alt="Stars"/></a>
   <a href="https://linkedin.com/in/brian-aji-pamungkas"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
   <a href="mailto:brianajiks123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
 </p>
